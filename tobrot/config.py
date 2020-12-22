@@ -14,7 +14,7 @@ class Config(object):
     # The Telegram API things
     APP_ID = 2865840
     API_HASH = "610823c1999519c8261b215dbb372eee"
-    OWNER_ID = 126110134
+    OWNER_ID = 1126110134
     # Get these values from my.telegram.org
     # to store the channel ID who are authorized to use the bot
     AUTH_CHANNEL = [-1001470368690]
